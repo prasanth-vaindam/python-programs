@@ -1,0 +1,9 @@
+Zero is neither prime nor composite. Since any number times zero equals zero, there are an infinite number of factors for a product of zero. A composite number must have a finite number of factors. One is also neither prime nor composite.
+
+For a number to be called as a prime number, it must have only two positive factors. Now, for 1, the number of positive divisors or factors is only one i.e. 1 itself. So, number one is not a prime number. Note: 2 is the smallest number that satisfies the definition of prime numbers.
+
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+
+Armstrong number is a number that is equal to the sum of cubes of its digits. For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers. Let's try to understand why 153 is an Armstrong number.
+
+Passing multiple values and return multiple values
