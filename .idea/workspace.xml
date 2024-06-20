@@ -4,30 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Class Time Table.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/Notes For is_Prime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/fact_rec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_amstrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_armstrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_prime_check_for_edge_cases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/length_of_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/reverse_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/reverse_phrase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Core Python">
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Classes/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Collections/Lists/Accessing_List_Items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/ExceptionHandling/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Functions/Notes_for_Is_armstrong_number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Functions/gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_surd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Functions/print_numbers_between_two_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Python/Class Time Table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core Python/Class Time Table.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,6 +40,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prasanth-vaindam&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prasanth-vaindam/python-programs.git&quot;,
+    &quot;accountId&quot;: &quot;c446d34a-18a5-4bbf-83ea-39d1f77a291c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -50,24 +63,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.fact_rec.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.is_Amstrong.executor": "Run",
-    "Python.is_Prime.executor": "Run",
-    "Python.is_armstrong.executor": "Run",
-    "Python.is_palindrome.executor": "Run",
-    "Python.is_prime.executor": "Run",
-    "Python.is_prime_check_for_edge_cases.executor": "Run",
-    "Python.length_of_string.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.reverse_number.executor": "Run",
-    "Python.reverse_phrase.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.001 Greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.002 Partial Output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2ndlineerror.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Accessing_List_Items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fact_rec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_Amstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_prime_check_for_edge_cases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_surd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.length_of_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_numbers_between_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readfile_with.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_phrase.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/Python/python/Core Python/FileIO&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\python\Core Python\FileIO" />
+      <recent name="D:\Code\Python\python\Core Python\Functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\python\Classes" />
+      <recent name="D:\Code\Python\python\Class Pranavi\Day001_16-June-2024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python" />
@@ -108,7 +142,31 @@
       <option name="presentableId" value="Default" />
       <updated>1716654534989</updated>
     </task>
+    <task id="LOCAL-00001" summary="Core Python">
+      <option name="closed" value="true" />
+      <created>1717745864756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717745864756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Core Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Core Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

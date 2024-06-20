@@ -3,3 +3,19 @@ Day 1: Definition of function, re-usable piece of code what is function call
 Day 2: goodBye good morning good evening, Is_even() is_prime() is_amstrong()
 Day 3: Local Viarbales in a for loop can access it outside loop
 factoirla
+example of modules vs libraries in python
+is there a way to check if there how many modules in a python library
+global keyword in python
+def outer_function():
+    num = 20
+
+    def inner_function():
+        global num
+        num = 25
+    
+    print("Before calling inner_function(): ", num)
+    inner_function()
+    print("After calling inner_function(): ", num)
+
+print("Outside both function: ", num)
+outer_function()

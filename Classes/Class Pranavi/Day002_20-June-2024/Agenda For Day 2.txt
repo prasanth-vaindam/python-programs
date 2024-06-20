@@ -1,0 +1,6 @@
+Agenda For Day 2:
+
+Python Comments
+Python Variables
+Python Data Types
+P
