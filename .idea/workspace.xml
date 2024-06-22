@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Core Python">
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Classes/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Collections/Lists/Accessing_List_Items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/ExceptionHandling/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/Notes_for_Is_armstrong_number.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/gcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_surd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/print_numbers_between_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day05_22-June-2024/001 Basic DataTypes are Immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day05_22-June-2024/002 List are mutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day05_22-June-2024/003 modify string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core Python/Class Time Table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core Python/Class Time Table.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -87,13 +82,16 @@
     &quot;Python.readfile_with.executor&quot;: &quot;Run&quot;,
     &quot;Python.reverse_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.reverse_phrase.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/Python/python/Core Python/FileIO&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/prasanth/python/python-programs/Classes&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prasanth\python\python-programs\Classes" />
+      <recent name="D:\prasanth\python\python-programs\Classes\Nikitha" />
       <recent name="D:\Code\Python\python\Core Python\FileIO" />
       <recent name="D:\Code\Python\python\Core Python\Functions" />
     </key>
@@ -149,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717745864756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Core Python">
+      <option name="closed" value="true" />
+      <created>1718982462189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718982462189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
