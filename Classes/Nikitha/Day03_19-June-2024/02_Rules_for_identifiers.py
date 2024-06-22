@@ -18,7 +18,7 @@ Total = num1 + num2
 
 numOne = 1000
 numTwo = 2000
-TOTAL = num1 + num2
+TOTAL = numOne + numTwo
 # these are three different variable, because python is case-sensitive
 print(total, Total, TOTAL)
 _private_var = 10
