@@ -1,0 +1,55 @@
+Index: Classes/Nikitha/Day03_19-June-2024/02_Rules_for_identifiers.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Program to demonstrate the rules of Identifiers\r\n# variable names are also known as Identifiers\r\n\r\n# Allowed Character set is { A-Z, a-z, 0-9, _ }\r\n# it should start with either alphabet or _\r\n# Below are the valid Identifiers examples\r\n\r\nname = \"Prasanth\"\r\nfirst_name = \"Srikanth\"\r\nlast_name = \"Vaindam\"\r\nnumber1 = 10\r\nnumber2 = 20\r\ntotal = number1 + number2\r\n\r\nnum1 = 100\r\nnum2 = 200\r\nTotal = num1 + num2\r\n\r\nnumOne = 1000\r\nnumTwo = 2000\r\nTOTAL = num1 + num2\r\n# these are three different variable, because python is case-sensitive\r\nprint(total, Total, TOTAL)\r\n_private_var = 10\r\nCONSTANT = \"a Constant value will be named in Capital letter\"\r\nPI = 3.1459\r\nG = 9.8\r\nAbc = \"abcdefghijklmnopqrstuvwxyz\"\r\n\r\n# NOTE: We should not use keywords for identifiers\r\n# if klj else in not and or lkjsd go skjfe print\r\n# print = 1 - this gives a warning\r\n# in = 10 - this is a keyword\r\n# sdlfgjk'fdlkj = 1 -> this is invalid\r\n# 1num = 50 -\r\n# name@age = sunil@20\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Nikitha/Day03_19-June-2024/02_Rules_for_identifiers.py b/Classes/Nikitha/Day03_19-June-2024/02_Rules_for_identifiers.py
+--- a/Classes/Nikitha/Day03_19-June-2024/02_Rules_for_identifiers.py	
++++ b/Classes/Nikitha/Day03_19-June-2024/02_Rules_for_identifiers.py	
+@@ -18,7 +18,7 @@
+ 
+ numOne = 1000
+ numTwo = 2000
+-TOTAL = num1 + num2
++TOTAL = numOne + numTwo
+ # these are three different variable, because python is case-sensitive
+ print(total, Total, TOTAL)
+ _private_var = 10
+Index: Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py b/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py
+new file mode 100644
+--- /dev/null	
++++ b/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py	
+@@ -0,0 +1,8 @@
++# print("Pranavi")
++# print("Naveen")
++# print("Swathi")
++print("__> single print")
++print("Pranavi\nNaveen\nSwathi")
++# escape sequences are hidden from the output but have special purpose to display something else
++print("India  is also know as Bharat   Hindustan")
++print("India  is also know as Bharat\tHindustan")
+\ No newline at end of file
+Index: Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py b/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py
+new file mode 100644
+--- /dev/null	
++++ b/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py	
+@@ -0,0 +1,7 @@
++# Program to add two number and display their due
++x = 10  # x is a variable of type integer
++y = 90  # name of the variable is also called Identifier 
++z = x + y  # x+y is a expression that is being assigned to the variable z
++print("Sum of 10 and 90 is: ", z)
++
++

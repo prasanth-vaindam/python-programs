@@ -1,0 +1,166 @@
+Index: Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Namaste! Bharat\\n\")\r\nprint(\"Mera Bharat Mahan!\\n\")\r\nprint(\"Jai Hind!\\n\")\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py b/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py
+--- a/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py	(revision deed6a47f869934b4d2a5088b704c23c20aeea1c)
++++ b/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py	(date 1718942488795)
+@@ -1,3 +1,35 @@
+-print("Namaste! Bharat\n")
+-print("Mera Bharat Mahan!\n")
+-print("Jai Hind!\n")
++# This is a program to Greet Bharat and also describe about comments
++"""
++THis is a multi line comment
++
++print("Namaste! Bharat")
++print("Mera Bharat Mahan!")
++"""
++# print("Jai Hind!")
++# this is a single line comment
++
++print("Welcome")
++# String is a sequence of character enclosed in double quotes or single or quotes
++
++print('Namaste')
++# characters Set { A-Z, a-z, 0-9 () {} [] <> ,. /":~!@##$%%%^& }
++# "Welcome to 'Bharat'."
++# 'Welcome to "Bharat"'
++print("Welcome to 'Bharat'.")
++print('Welcome to "Bharat".')
++print("""
++"Twinkle", 'twinkle', little star
++
++How I wonder what you are
++
++Up above the world so high
++
++Like a diamond in the sky
++
++Twinkle, twinkle, little star
++
++How I wonder what you are
++
++""")
++
++
+Index: Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># it shows the output for the line 1 and 3 although there is an error in the\r\nprint(\"Namaste\")\r\nx = 1\r\nprint(x)\r\ny = z\r\n# Although it is giving error it will give you the partial output\r\nprint(\"Hello\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py b/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py
+--- a/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py	(revision deed6a47f869934b4d2a5088b704c23c20aeea1c)
++++ b/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py	(date 1718941733969)
+@@ -1,4 +1,4 @@
+-# it shows the output for the line 1 and 3 although there is an error in the
++# it shows the output for the line 1 and 3 although there is an error in the line 5
+ print("Namaste")
+ x = 1
+ print(x)
+Index: Classes/Class Pranavi/Day002_20-June-2024/Agenda For Day 2.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day002_20-June-2024/Agenda For Day 2.txt b/Classes/Class Pranavi/Day002_21-June-2024/Agenda For Day 2.txt
+rename from Classes/Class Pranavi/Day002_20-June-2024/Agenda For Day 2.txt
+rename to Classes/Class Pranavi/Day002_21-June-2024/Agenda For Day 2.txt
+--- a/Classes/Class Pranavi/Day002_20-June-2024/Agenda For Day 2.txt	(revision deed6a47f869934b4d2a5088b704c23c20aeea1c)
++++ b/Classes/Class Pranavi/Day002_21-June-2024/Agenda For Day 2.txt	(date 1718904450173)
+@@ -1,5 +1,8 @@
+ Agenda For Day 2:
+-
++print statement
++String
++identifier
++literal
+ Python Comments
+ Python Variables
+ Python Data Types
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"654253d0-f3a3-47f1-beed-84bd2f14ed65\" name=\"Changes\" comment=\"Core Python\">\r\n      <change afterPath=\"$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Classes/demo.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Collections/Lists/Accessing_List_Items.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/ExceptionHandling/exception.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/FileIO/file.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/FileIO/readfile.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/FileIO/readfile_with.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Functions/Notes_for_Is_armstrong_number.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Functions/gcd.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Functions/is_surd.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Core Python/Functions/print_numbers_between_two_numbers.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Core Python/Class Time Table.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Core Python/Class Time Table.txt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DaemonCodeAnalyzer\">\r\n    <disable_hints>\r\n      <file url=\"file://$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py\" />\r\n    </disable_hints>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;prasanth-vaindam&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/prasanth-vaindam/python-programs.git&quot;,\r\n    &quot;accountId&quot;: &quot;c446d34a-18a5-4bbf-83ea-39d1f77a291c&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gy0VJFECDxMsIOOPIICXWvB774\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.001 Greetings.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.002 Partial Output.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.2ndlineerror.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Accessing_List_Items.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Greetings.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.exception.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.fact_rec.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_Amstrong.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_Prime.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_armstrong.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_palindrome.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_prime.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_prime_check_for_edge_cases.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.is_surd.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.length_of_string.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.print_numbers_between_two_numbers.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.readfile.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.readfile_with.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.reverse_number.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.reverse_phrase.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;D:/Code/Python/python/Core Python/FileIO&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Code\\Python\\python\\Core Python\\FileIO\" />\r\n      <recent name=\"D:\\Code\\Python\\python\\Core Python\\Functions\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Code\\Python\\python\\Classes\" />\r\n      <recent name=\"D:\\Code\\Python\\python\\Class Pranavi\\Day001_16-June-2024\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"python\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"654253d0-f3a3-47f1-beed-84bd2f14ed65\" name=\"Changes\" comment=\"\" />\r\n      <created>1716654534989</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1716654534989</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Core Python\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717745864756</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717745864756</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Core Python\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Core Python\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision deed6a47f869934b4d2a5088b704c23c20aeea1c)
++++ b/.idea/workspace.xml	(date 1718986381890)
+@@ -5,20 +5,12 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Core Python">
+-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Classes/demo.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Collections/Lists/Accessing_List_Items.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/ExceptionHandling/exception.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/file.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/FileIO/readfile_with.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/Notes_for_Is_armstrong_number.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/gcd.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/is_surd.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Core Python/Functions/print_numbers_between_two_numbers.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Core Python/Class Time Table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core Python/Class Time Table.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/001 Greetings.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day001_16-June-2024/002 Partial Output.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Day002_20-June-2024/Agenda For Day 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day002_21-June-2024/Agenda For Day 2.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -67,6 +59,8 @@
+   &quot;keyToString&quot;: {
+     &quot;Python.001 Greetings.executor&quot;: &quot;Run&quot;,
+     &quot;Python.002 Partial Output.executor&quot;: &quot;Run&quot;,
++    &quot;Python.01 print_name.executor&quot;: &quot;Run&quot;,
++    &quot;Python.02 adding_two_numbers.executor&quot;: &quot;Run&quot;,
+     &quot;Python.2ndlineerror.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Accessing_List_Items.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Greetings.executor&quot;: &quot;Run&quot;,
+Index: Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py b/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py
+new file mode 100644
+--- /dev/null	(date 1718943987261)
++++ b/Classes/Class Pranavi/Day002_21-June-2024/01 print_name.py	(date 1718943987261)
+@@ -0,0 +1,8 @@
++# print("Pranavi")
++# print("Naveen")
++# print("Swathi")
++print("__> single print")
++print("Pranavi\nNaveen\nSwathi")
++# escape sequences are hidden from the output but have special purpose to display something else
++print("India  is also know as Bharat   Hindustan")
++print("India  is also know as Bharat\tHindustan")
+\ No newline at end of file
+Index: Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py b/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py
+new file mode 100644
+--- /dev/null	(date 1718944533712)
++++ b/Classes/Class Pranavi/Day002_21-June-2024/02 adding_two_numbers.py	(date 1718944533712)
+@@ -0,0 +1,7 @@
++# Program to add two number and display their due
++x = 10  # x is a variable of type integer
++y = 90
++z = x + y  # x+y is a expression that is being assigned to the variable z
++print("Sum of 10 and 90 is: ", z)
++
++
