@@ -1,0 +1,6 @@
+Day 4: 27th June 2024
+----------------------
+Recap on Data Type
+Identifiers
+Rules for Identifiers
+Basic DataTypes are Immutable
