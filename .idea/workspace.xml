@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Core Python">
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/24-06-2024/01 Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/24-06-2024/02 Set Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/24-06-2024/02 Set Duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/25-06-2024/01 Set Demo Cont.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/28-06-2024/Pattern 05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day004_27-June-2024/01 Recap on basic datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day004_27-June-2024/02 Rules for Identifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day004_27-June-2024/03 Keywords in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day005_29-June-2024/01 NumberSystems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day06_27-June-2024/01 TypeConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day07_29-June-2024/Add Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Additional/01 RegEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/RegularExpressions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-06-2024_21_43_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-06-2024_21_43__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,38 +67,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.001 Greetings.executor": "Run",
-    "Python.002 Partial Output.executor": "Run",
-    "Python.01 Tuple.executor": "Run",
-    "Python.02 Set Demo.executor": "Run",
-    "Python.2ndlineerror.executor": "Run",
-    "Python.Accessing_List_Items.executor": "Run",
-    "Python.Greetings.executor": "Run",
-    "Python.exception.executor": "Run",
-    "Python.fact_rec.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.is_Amstrong.executor": "Run",
-    "Python.is_Prime.executor": "Run",
-    "Python.is_armstrong.executor": "Run",
-    "Python.is_palindrome.executor": "Run",
-    "Python.is_prime.executor": "Run",
-    "Python.is_prime_check_for_edge_cases.executor": "Run",
-    "Python.is_surd.executor": "Run",
-    "Python.length_of_string.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.print_numbers_between_two_numbers.executor": "Run",
-    "Python.readfile.executor": "Run",
-    "Python.readfile_with.executor": "Run",
-    "Python.reverse_number.executor": "Run",
-    "Python.reverse_phrase.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/prasanth/python/python-programs/Classes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.001 Greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.002 Partial Output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 NumberSystems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 RegEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 Rules for Identifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 Set Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03 Keywords in Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2ndlineerror.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Accessing_List_Items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern 01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern 03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern 04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern 05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fact_rec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_Amstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_prime_check_for_edge_cases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_surd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.length_of_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_numbers_between_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readfile_with.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_phrase.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/prasanth/python/python-programs/Classes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\prasanth\python\python-programs\Classes" />
