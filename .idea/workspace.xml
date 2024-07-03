@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Core Python">
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/July/02-July-2024/Pattern 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day006_01-July-2024/01 DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day007_02-July-2024/01 Float DataType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day007_02-July-2024/02 Complex Data Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day007_02-July-2024/03 String DataType.py" afterDir="false" />
+    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/7pmBatch/June/29-06-2024/Pattern 08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Day007_02-July-2024/01 Float DataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day007_02-July-2024/01 Float DataType.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719820373566</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs">
+      <option name="closed" value="true" />
+      <created>1719941442097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719941442097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Core Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Core Python" />
+    <MESSAGE value="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
