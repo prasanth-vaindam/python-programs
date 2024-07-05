@@ -4,3 +4,15 @@ Recap on Data Type
 Identifiers
 Rules for Identifiers
 Basic DataTypes are Immutable
+
+Day 7: 02 July 2024
+---------------------
+1. String Slicing
+2. Recap of String Data Type
+3. Complex Data Type
+4. Float Data Type - Use of Exponent form
+
+Day 8: 04 July 2024
+-------------------------
+Quick Quiz on Basic Data Types and  Type Casting
+

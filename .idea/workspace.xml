@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs">
-      <change afterPath="$PROJECT_DIR$/Classes/Nikitha/Day09_03-June-2024/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day008_04-07-2024/01 Quiz on Basic Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day008_04-07-2024/01 Quiz on Type Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Python/Operators/01 Logical Operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Agenda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Agenda.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,7 @@
     &quot;Python.002 Partial Output.executor&quot;: &quot;Run&quot;,
     &quot;Python.01 Float DataType.executor&quot;: &quot;Run&quot;,
     &quot;Python.01 NumberSystems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 Quiz on Basic Data Types.executor&quot;: &quot;Run&quot;,
     &quot;Python.01 RegEx.executor&quot;: &quot;Run&quot;,
     &quot;Python.01 Tuple.executor&quot;: &quot;Run&quot;,
     &quot;Python.01.executor&quot;: &quot;Run&quot;,
@@ -216,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720015970265</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs">
+      <option name="closed" value="true" />
+      <created>1720103826995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720103826995</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
