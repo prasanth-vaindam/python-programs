@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs">
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day008_04-07-2024/01 Quiz on Basic Data Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Day008_04-07-2024/01 Quiz on Type Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Python/Operators/01 Logical Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Class Pranavi/Agenda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Class Pranavi/Agenda.txt" afterDir="false" />
-    </list>
+    <list default="true" id="654253d0-f3a3-47f1-beed-84bd2f14ed65" name="Changes" comment="Operators" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720103826995</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1720178877349</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720178877349</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1720178896906</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720178896906</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +255,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Core Python" />
     <MESSAGE value="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pranavi's Day 7 Class update&#10;and 7pm Batch Pattern Programs" />
+    <MESSAGE value="Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

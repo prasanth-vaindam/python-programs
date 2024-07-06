@@ -14,5 +14,12 @@ Day 7: 02 July 2024
 
 Day 8: 04 July 2024
 -------------------------
+String Slicing 
+Python is dynamically typed language
+Explained Range DataType
+and range in for loop
+
+Q. difference between byte and character
+
 Quick Quiz on Basic Data Types and  Type Casting
 
