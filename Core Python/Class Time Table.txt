@@ -1,4 +1,5 @@
 Functions :
+https://note.nkmk.me/en/python-function-return-multiple-values/
 Day 1: Definition of function, re-usable piece of code what is function call
 Day 2: goodBye good morning good evening, Is_even() is_prime() is_amstrong()
 Day 3: Local Viarbales in a for loop can access it outside loop
