@@ -22,9 +22,13 @@ x = frozenset({"apple", "banana", "cherry"})
 x = True 
 x = b"Hello"
 print("24-->", type(x))
-print(x)
+#output <class 'bytes'>
+print("->",x)
 x = bytearray(6)
-print(x)  # The b'\x00\x00\x00\x00\x00' part is a bytes object containing five bytes, each with the value 0 (\x00 is the hexadecimal representation of 0).
+x[0] = 1
+print(x)  
+# bytearray(b'\x00\x00\x00\x00\x00\x00')
+# The b'\x00\x00\x00\x00\x00' part is a bytes object containing five bytes, each with the value 0 (\x00 is the hexadecimal representation of 0).
 x = memoryview(bytes(5))
 print("id is address:",hex(id(x)))
 print(x)

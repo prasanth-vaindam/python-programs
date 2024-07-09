@@ -23,3 +23,12 @@ Q. difference between byte and character
 
 Quick Quiz on Basic Data Types and  Type Casting
 
+Day 9:
+---------------------------
+Agenda:
+Q. What is Type Casting ?
+Topic: Quick Recap on all DataTypes:
+Show the Excel
+
+
+Notes:
