@@ -26,9 +26,21 @@ Quick Quiz on Basic Data Types and  Type Casting
 Day 9:
 ---------------------------
 Agenda:
-Q. What is Type Casting ?
+Recap:
+Q. What is Type Casting or Type Conversion?
+Is Python statically typed or dynamically typed?
 Topic: Quick Recap on all DataTypes:
 Show the Excel
-
-
+------------------------
 Notes:
+Actual:
+--------
+if else using two programs
+we reviewed type casting
+concept of flag variable
+--------------
+Homework:
+WAPP to check if a given number is even or odd
+WAPP To tell if the given number is positive or negative
+------
+
