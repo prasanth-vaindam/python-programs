@@ -43,4 +43,20 @@ Homework:
 WAPP to check if a given number is even or odd
 WAPP To tell if the given number is positive or negative
 ------
+Day 10: July 12, 2024
+ - Review Homework
+ - Operators
+ - if elif else
+ -------
+ WAPP To Print Grade By Reading the User Input
+ A - [90 - 100]
+ B - [80 - 89]
+ C - [70 - 79]
+ D - [50 - 69]
+ P - [35 - 49]
+ You did not attain any grade - other Range
+
+ Next class - Discuss the isEven Homework
+
+
 
