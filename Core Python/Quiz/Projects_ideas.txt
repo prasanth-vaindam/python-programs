@@ -1,0 +1,14 @@
+Print a Personalized message using the info { name, age, hobby }
+
+input() waits for you to type something and press enter,
+whatever you type gets saved in the variable
+
+print() shows a message on the screen
+
+The f"" means you can include variables inside the message for personalization
+
+
+Guess the Number
+Multiplication Table Generator
+Generate A Random Password
+

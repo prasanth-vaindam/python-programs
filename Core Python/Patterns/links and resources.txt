@@ -1,0 +1,5 @@
+advanced patterns to print in python
+pattern programs in python
+https://www.wscubetech.com/resources/python/programs/pattern
+https://pynative.com/print-pattern-python-examples/
+https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/

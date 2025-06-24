@@ -1,0 +1,52 @@
+Case Conversion
+
+upper() - converts to uppercase
+lower() - converts to lowercase
+capitalize() - capitalizes first letter only
+title() - capitalizes first letter of each word
+swapcase() - swaps upper/lower case
+
+Checking String Properties
+
+isdigit() - checks if all characters are digits
+isalpha() - checks if all characters are letters
+isalnum() - checks if all characters are alphanumeric
+isspace() - checks if all characters are whitespace
+islower() - checks if all characters are lowercase
+isupper() - checks if all characters are uppercase
+
+Finding and Searching
+
+find(substring) - returns index of first occurrence (-1 if not found)
+index(substring) - like find() but raises exception if not found
+count(substring) - counts occurrences of substring
+startswith(prefix) - checks if string starts with prefix
+endswith(suffix) - checks if string ends with suffix
+
+Splitting and Joining
+
+split(delimiter) - splits string into list
+rsplit(delimiter) - splits from right side
+join(iterable) - joins elements with string as separator
+partition(separator) - splits into 3 parts at first separator
+splitlines() - splits at line breaks
+
+Replacing and Modifying
+
+replace(old, new) - replaces all occurrences
+strip() - removes whitespace from both ends
+lstrip() - removes whitespace from left
+rstrip() - removes whitespace from right
+zfill(width) - pads with zeros on left
+
+Formatting
+
+format() - formats string with placeholders
+center(width) - centers string in given width
+ljust(width) - left-justifies in given width
+rjust(width) - right-justifies in given width
+
+Encoding/Decoding
+
+encode() - encodes string to bytes
+decode() - decodes bytes to string (for byte objects)

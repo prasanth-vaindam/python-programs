@@ -1,0 +1,13 @@
+01
+
+02
+Strings are Arrays
+Looping Through a String
+String Length
+
+03
+slicing
+negative slicing
+04
+Modifying
+https://www.w3schools.com/python/python_ref_string.asp

@@ -1,0 +1,17 @@
+Strings & String Methods
+
+
+Day 6: Conditionals(if, elif, else)
+
+In Python, conditional statements allow your code to make decisions
+
+What are Conditionals?
+flow of execution is controlled by them,
+they help your program execute certain code block only when specific conditions are true
+
+if condition:
+    # code runs if condition is true
+elif anotherCondition:
+    # code runs if all the previous conditions are False and This is True
+
+Guess The Number Game

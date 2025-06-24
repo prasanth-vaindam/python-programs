@@ -1,0 +1,2 @@
+what keyword is used when all other conditions fail?
+options: finally, except, elif, else
