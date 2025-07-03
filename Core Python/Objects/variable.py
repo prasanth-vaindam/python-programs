@@ -29,12 +29,22 @@ print(numbers)
 
 print(nums)
 
-# print(numbers)
-# print(numbers_duplicated)
-# print(nums)
-#
-#
-# numbers[0] = "One"
-# print(numbers)
-# print(numbers_duplicated)
-# print(nums)
+print(numbers)
+print(numbers_duplicated)
+print(nums)
+
+
+numbers[0] = "One"
+print(numbers)
+print(numbers_duplicated)
+print(nums)
+
+
+"""
+shallow copy vs assigning object reference 
+
+how deep copy is similar to listObject.copy()
+
+https://labex.io/tutorials/python-how-to-understand-object-references-in-python-398254
+two list when assigned to each other are same object references because they point to the same object in memory
+"""
