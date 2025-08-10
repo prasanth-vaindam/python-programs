@@ -20,3 +20,6 @@ ritika,15,110.53
 ritika,8,309.5
 ritika,7,222.06
 ritika,11,153.03
+karthikeya,15,312.07
+prasanthVaindam,15,303.37
+ritika_spoorthi,15,95.41
