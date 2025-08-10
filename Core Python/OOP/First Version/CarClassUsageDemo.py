@@ -7,6 +7,8 @@ from Car_module import Car
 # car_one.start()
 
 prasanth_car = Car("Tata", "safari", 2023)
+
+print(type(prasanth_car))
 abhi_car = Car("Abhi", "XUV", 2025)
 print(abhi_car.brand)
 print(abhi_car.model)
