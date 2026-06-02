@@ -1,0 +1,64 @@
+Index: .idea/python.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/.venv\" />\r\n    </content>\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.12 (python-programs)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/python.iml b/.idea/python.iml
+--- a/.idea/python.iml	(revision b11a1c7896ffc9f23b6402f058cbea642b874908)
++++ b/.idea/python.iml	(date 1780384604694)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+     </content>
+-    <orderEntry type="jdk" jdkName="Python 3.12 (python-programs)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.14 (python-programs)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: Core Python/OOP/Adenda.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Core Python/OOP/Adenda.txt b/Core Python/OOP/Adenda.txt
+new file mode 100644
+--- /dev/null	(date 1780385403653)
++++ b/Core Python/OOP/Adenda.txt	(date 1780385403653)
+@@ -0,0 +1,15 @@
++What is OOP?
++    OOP stands for Object-Oriented Programming.
++    Python is an object-oriented language, allowing you to structure your code
++    using classes and objects for better organization and reusability.
++Advantages of OOP
++    Provides a clear structure to programs
++    Makes code easier to maintain, reuse, and debug
++    Helps keep your code DRY (Don't Repeat Yourself)
++    Allows you to build reusable applications with less code
++Tip: The DRY principle means you should avoid writing the same code more than once.
++     Move repeated code into functions or classes and reuse it.
++----------------------------------------------------------------------------------------------
++What are Classes and Objects?
++Classes and objects are the two core concepts in object-oriented programming.
++A class defines what an object should look like, and an object is created based on that class.
+\ No newline at end of file
+Index: Core Python/OOP/SecondAttempt/CallingGod.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from ClassDemo import God\r\n\r\nx = 10\r\n\r\ngodObject = God()\r\nprint(type(godObject))\r\n\r\n__new__() -> memory for the object is allocated
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Core Python/OOP/SecondAttempt/CallingGod.py b/Core Python/OOP/SecondAttempt/CallingGod.py
+--- a/Core Python/OOP/SecondAttempt/CallingGod.py	(revision b11a1c7896ffc9f23b6402f058cbea642b874908)
++++ b/Core Python/OOP/SecondAttempt/CallingGod.py	(date 1780384624348)
+@@ -5,4 +5,4 @@
+ godObject = God()
+ print(type(godObject))
+ 
+-__new__() -> memory for the object is allocated
+\ No newline at end of file
++# __new__() -> memory for the object is allocated
+\ No newline at end of file
