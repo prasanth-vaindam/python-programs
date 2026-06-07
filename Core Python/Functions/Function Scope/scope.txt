@@ -1,0 +1,15 @@
+Python searches for variables in this order:
+
+L → E → G → B
+
+L = Local Scope
+E = Enclosing Scope (outer function)
+G = Global Scope
+B = Built-in Scope
+
+This is called the LEGB Rule, which is the foundation of Python function scope.
+
+len = 100
+
+print(len("Python"))
+TypeError: 'int' object is not callable
