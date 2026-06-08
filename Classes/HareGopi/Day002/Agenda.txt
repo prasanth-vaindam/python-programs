@@ -1,0 +1,38 @@
+variables
+    Variables are containers for storing data values.
+1. Creating Variables.
+2. Casting
+     If you want to specify the data type of a variable, this can be done with casting.
+3. Get the Type
+4. Single or Double Quotes
+5. Case-Sensitive
+--------------
+variable Names
+    A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).
+
+Rules for Python variables:
+
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords.
+
+Multi Words Variable Names
+Camel Case, Pascal Case, Snake Case
+---------------------------------------------
+Python Variables - Assign Multiple Values
+1. Many Values to Multiple Variables
+2. One Value to Multiple Variables
+3. Unpack a Collection
+    Python allows you to extract the values into variables.
+-----------------------------------------------------------------
+Python - Output Variables
+    1. In the print() function, you output multiple variables, separated by a comma
+    2. + operator : stings, string + number error
+--------------------------------------------------------
+Python - Global Variables
+    1.Global Variables
+    2.Local Variables
+    3.global keyword
+

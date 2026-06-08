@@ -1,0 +1,54 @@
+Python Strings
+    Assign String to a Variable
+    Multiline Strings
+    Strings are Arrays
+    Looping Through a String
+    String Length
+    Check String
+-------------------------------
+Python - Slicing Strings
+    Slicing - You can return a range of characters by using the slice syntax.
+    Slice From the Start
+    Slice To the End
+    Index	0	1	2	3	4	5
+Character	P	Y	T	H	O	N
+Negative Index	-6	-5	-4	-3	-2	-1
+Character	    P	Y	T	H	O	N
+--------------------------------
+Python - Modify Strings
+    Upper Case
+    Lower Case
+    Remove Whitespace
+    Replace String
+    The split() method splits the string into substrings if it finds instances of the separator
+---------------------------------------------------------------------------------------
+Python - String Concatenation
+    String Concatenation
+----------------------------------------
+Python - Format - Strings
+    String Format - we cannot combine strings and numbers
+    F-Strings - Placeholders and Modifiers
+    A placeholder can contain Python code, like math operations
+    
+
+
+--------------------
+What is the bytes Data Type in Python?
+bytes is a data type used to store binary data (data represented as bytes).
+
+A byte can hold a value from 0 to 255.
+bytes objects are immutable (cannot be changed after creation).
+
+----------------------------
+What is bytearray in Python?
+
+A bytearray is like bytes, but it is mutable (you can change its contents).
+
+Stores values from 0 to 255.
+Used for binary data.
+Can be modified after creation.
+-------------------------------
+We use memoryview when working with large binary data because it lets us
+access the data without creating a copy.
+This saves memory and makes programs faster.
+------------------------------

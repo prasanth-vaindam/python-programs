@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Array Display</title>
+</head>
+<body>
+
+    <input type="number" id="numBox" placeholder="Enter a number">
+    <button onclick="addNumber()">Go</button>
+
+    <h3>Output:</h3>
+    <p id="output">[]</p>
+
+    <script>
+        let numbers = [];
+
+        function addNumber() {
+            let value = document.getElementById("numBox").value;
+
+            if (value === "") {
+                alert("Please enter a number");
+                return;
+            }
+
+            numbers.push(Number(value));
+
+            document.getElementById("output").textContent =
+                "[" + numbers.join(", ") + "]";
+
+            document.getElementById("numBox").value = "";
+        }
+    </script>
+
+</body>
+</html>
