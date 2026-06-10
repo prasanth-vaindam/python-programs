@@ -1,0 +1,14 @@
+1. Add Two Numbers
+2. Find Difference of Two Numbers
+3. Find Product of Two Numbers
+4. Find Quotient of Two Numbers
+5. Find Average of Three Numbers
+6. Area of Rectangle
+7. Area of Circle
+8. Perimeter of Rectangle
+9. Celsius to Fahrenheit
+10. Swap Two Numbers Using Third Variable
+11. Calculate Simple Interest
+12. Find Square of a Number
+13. Find Cube of a Number
+-----------------------------
