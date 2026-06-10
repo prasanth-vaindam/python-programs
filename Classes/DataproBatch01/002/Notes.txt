@@ -1,0 +1,15 @@
+A variable is a name used to store data
+examples of variables
+Data Types :
+every value has a type.
+python is dynamically typed
+Data type is inferred at runtime
+
+Input Returns String
+type cast to required time when necessary
+
+Operators
+Arithmetic
+Assignment
+
+Multi-line comments
