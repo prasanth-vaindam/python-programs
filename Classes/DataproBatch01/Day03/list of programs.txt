@@ -1,0 +1,24 @@
+Arithmetic → + - * / // % **
+Comparison → == != > < >= <=
+Logical → and or not
+Assignment → = += -= *= /=
+
+https://chatgpt.com/c/6a28d63f-0bd4-8321-ba65-c337dc61adee
+Check Voting Eligibility
+Check Pass or Fail
+Find Greater Number
+Check Equality
+Check Not Equal
+Eligible for Driving License (and)
+
+if password == "admin123":
+    print("Login Successful")
+else:
+    print("Wrong Password")
+
+username = input("Enter username: ")
+
+if username != "":
+    print("Username accepted")
+else:
+    print("Username cannot be empty")
