@@ -1,7 +1,7 @@
 print("Namaste and welcome")
 
-print('Hello Sohan')
+name = input("Enter Your Name: ")
 
-name = eval(input("Enter your Name: "))
+print("Hello", name)
 
-print('hello', name[0], name[1] )
+
