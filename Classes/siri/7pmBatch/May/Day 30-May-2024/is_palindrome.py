@@ -8,14 +8,11 @@ def is_palindrome(word):
             i += 1  # move i pointer towards right
             j -= 1  # move j  pointer towards left
         else:
-            # print(f"No, The Given word {word} is not a palindrome")
             return False
 
     if i >= len(word)//2:
-        # print(f"Yes, The Given phrase {word} is a palindrome")
         return True
     else:
-        # print(f"No, The Given word {word} is not a palindrome")
         return False
 
 

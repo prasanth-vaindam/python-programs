@@ -8,7 +8,5 @@ def len_of_str(input_str):
 
 
 while True:
-
-
-
+    word = input("Enter a word to know it's length")
     print(f"The length of the string {word} is {len_of_str(word)}")

@@ -1,10 +1,10 @@
-print(type(10)) # int
-print(type(10.5)) # float
-print(type("10")) # String
-print(type(True))  #bool
+print(type(10)) #
+print(type(10.5)) #
+print(type("10")) #
+print(type(True))  #
 
 name = "Hari"
 
 
-print(Name)
+# print(Name)
 
