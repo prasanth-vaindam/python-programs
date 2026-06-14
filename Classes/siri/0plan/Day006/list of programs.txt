@@ -1,0 +1,34 @@
+1. Create and Print a String
+2. String Concatenation
+3. String Repetition
+4. Find Length of String
+5. Access Characters using Index
+6. String Slicing Basics
+7. Reverse a String using Slicing
+8. Extract First Name and Last Name
+9. Convert to Uppercase and Lowercase
+10. Capitalize a Sentence
+11. Count Occurrences
+12. Find Position of a Character
+13. Replace Words
+14. Check Start and End
+15. Remove Extra Spaces
+16. Split a Sentence
+17. Join Strings
+18. Check String Type
+-------------------
+find index of
+find count
+find second Occurrence
+email validator
+extract url
+extract last folder name from the path
+extract file extension
+Count Occurrences of a Word in a Sentence
+__contains__
+----------------------
+count vowels
+count occurrence of word in the sentence
+20. Palindrome Program
+21. Extract File Extension
+22. Extract Last Folder Name from Path
