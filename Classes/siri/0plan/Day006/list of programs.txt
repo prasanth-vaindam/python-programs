@@ -22,6 +22,7 @@ extract last name
 find index of
 find count
 find second Occurrence
+extract lastname
 email validator
 extract url
 extract last folder name from the path
