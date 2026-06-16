@@ -1,0 +1,19 @@
+for loop
+
+13. Replace Words
+15. Remove Extra Spaces
+16. Split a Sentence
+17. Join Strings
+18. Check String Type
+
+
+After teaching split(), join(), and strip(), these 5 programs are especially useful:
+
+Count Words in a Sentence
+Print Each Word on a New Line (split)
+Reverse Words in a Sentence
+Remove Extra Spaces
+Create Initials from Full Name
+Create Username from Full Name
+"python    is     awesome"
+userinput ==> "python-is-awesome"

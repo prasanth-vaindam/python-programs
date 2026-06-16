@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+l = len(name)
+print("length before: ",l)
+name = name.strip()
+l = len(name)
+print("length after: ",l)
+print(name)
