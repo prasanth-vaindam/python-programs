@@ -17,6 +17,8 @@
 17. Join Strings
 18. Check String Type
 -------------------
+Email Validator
+extract last name
 find index of
 find count
 find second Occurrence
