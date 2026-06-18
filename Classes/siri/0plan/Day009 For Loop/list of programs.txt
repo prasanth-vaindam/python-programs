@@ -1,0 +1,23 @@
+Recommended Teaching Order
+for with range()
+Iterate a string
+Iterate a list
+Count vowels
+Count occurrences of a character
+Sum of list elements
+Largest number in a list
+Reverse string using loop
+Index-based loops using range(len(...))
+Simple patterns
+
+-------------------
+1. Print Numbers from 1 to 5
+2. Print a Message 5 Times
+3. Print Each Character
+4. Count Vowels
+ for next day
+5. Count Uppercase Letters
+6. Print List Elements
+7. Find Total of Numbers
+8. Find Largest Number
+9. Count Even Numbers

@@ -1,0 +1,16 @@
+1. Count Words in a Sentence (split)
+2. Print Each Word on a New Line (split)
+3. Reverse the Order of Words (split + join)
+4. Remove Extra Spaces (strip)
+5. Convert CSV Data into List (split)
+6. Convert List into CSV Data (join)
+10. Replace Multiple Spaces with Single Space (split + join)
+11. Extract Domain from Email (split)
+12. Extract File Extension (split)
+13. Convert Sentence into Hyphen-Separated Words (split + join)
+15. Create Username from Full Name (split + join)
+
+After For Loop
+7. Remove Extra Spaces from Each Name (split + strip)
+8. Format Student Names Nicely (split + strip + title)
+9. Create Initials from Full Name (split)
