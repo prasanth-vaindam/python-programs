@@ -5,5 +5,5 @@ print(f"a >= b is {a >= b}")   # True
 print(f"a < b is {a < b}")  # False
 print(f"a <= b is {a <= b}")  # True  less than or equal to
 
-# Day 10 Update
+# Day010 10 Update
 print(f"{a} == {b} is {a == b}")  # True if both are equal

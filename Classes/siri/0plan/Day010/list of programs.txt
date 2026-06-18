@@ -1,0 +1,47 @@
+Ternary
+The ternary operator is a compact way to write an if-else statement in one line.
+
+1. Check Even or Odd
+2. Find the Largest of Two Numbers
+3. Check Voting Eligibility
+4. Check Positive or Negative
+5. Pass or Fail
+6. Find the Smallest of Two Numbers
+7. Check Divisibility by 5
+8. Check Leap Year (Simple Version)
+9. Check Character Case
+10. Check Vowel or Consonant
+11. Check Palindrome
+12. Check Password Strength (Basic)
+13. Find the Largest of Three Numbers (Nested Ternary)
+14. Assign Grade
+15. Check Empty String
+16. Find Absolute Value
+17. Discount Eligibility
+18. Login Check
+19. Find Longer String
+20. Check ASCII Character
+
+Nested
+4. Traffic Signal
+----------------
+Program 1: Print Hello 5 Times
+Program 2: Print Numbers 1 to 10
+Program 3: Print Even Numbers
+Program 4: Print Odd Numbers
+Program 5: Countdown
+Program 6: Multiplication Table
+Program 7: Sum of First N Numbers
+Program 8: Factorial
+Program 9: Reverse a Number
+Program 10: Count Digits
+Program 11: Sum of Digits
+Program 12: Check Palindrome Number
+Program 13: Count Vowels in a String
+Program 14: Reverse a String
+Program 15: Guess the Password
+Program 16: Simple Menu Program
+Program 17: Print Each Character
+Program 18: Count Occurrences of a Character
+Program 19: Find Largest Number in a List
+Program 20: Print List Elements
