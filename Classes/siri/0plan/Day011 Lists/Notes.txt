@@ -1,0 +1,26 @@
+Access Items
+index number
+Negative Indexing
+Range of Indexes
+Check if Item Exists
+
+Python - Change List Items
+Change Item Value
+Change a Range of Item Values
+The length of the list will change when the number of items inserted does not match the number of items replaced.
+
+Python - Add List Items
+Append Items
+Insert Items
+Extend List
+
+Python - Remove List Items
+Remove Specified Item remove("item")
+Remove Specified Index pop(1) pop()
+del
+clear()
+
+Loop Through a List
+Loop Through the Index Numbers
+Using a While Loop
+Looping Using List Comprehension
