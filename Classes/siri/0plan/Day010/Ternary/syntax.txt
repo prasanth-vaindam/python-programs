@@ -1,0 +1,19 @@
+value_if_true if condition else value_if_false
+
+
+the ternary operator is used when each branch contains a single expression.
+
+❌ Invalid:
+
+age = 20
+
+result = print("Adult")
+         print("Welcome")
+         if age >= 18
+         else print("Minor")
+
+A ternary operator cannot directly contain multiple statements like print(), assignments, or loops in each branch.
+
+Use if-else instead
+
+If you need multiple statements, write a normal if-else

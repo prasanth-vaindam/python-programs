@@ -1,5 +1,8 @@
 sen = "  ram  ravi     hari  giri"
 
-l = sen.split()
-for name in l:
-    print(name.strip().title())
+names = sen.split()
+
+# print(names)
+for name in names:
+    print(name.title())
+    # print(name)
