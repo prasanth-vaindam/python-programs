@@ -1,0 +1,7 @@
+str(10)
+str(9.8)
+str(True)
+print(str(False))
+print(str([1,2,3]))
+print(str(None))
+print(str("Apple"))

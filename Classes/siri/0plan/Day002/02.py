@@ -1,0 +1,8 @@
+float(10)
+float(9.8)
+float(True)
+float(False)
+float("9")
+float("9.8")
+float("-12.5")
+# float("abc")

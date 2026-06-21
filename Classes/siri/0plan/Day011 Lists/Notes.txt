@@ -1,4 +1,4 @@
-Access Items
+Python - Access Items
 index number
 Negative Indexing
 Range of Indexes
@@ -24,3 +24,28 @@ Loop Through a List
 Loop Through the Index Numbers
 Using a While Loop
 Looping Using List Comprehension
+
+---------------------------------------------------------
+What is List Comprehension?
+
+List comprehension is a short and easy way to create a new list using a single line of code.
+
+Instead of writing a for loop and calling append(), Python lets us do both in one line.
+
+General Syntax
+new_list = [expression for item in iterable]
+
+Think of it as:
+
+"For every item in a collection, do something and store the result in a new list."
+
+[What to store     for each item      in the collection]
+
+When Should You Use It?
+
+Use list comprehension when you want to:
+
+Create a new list.
+Modify every element of an existing list.
+Filter elements while creating a new list.
+Write cleaner, more readable code.
