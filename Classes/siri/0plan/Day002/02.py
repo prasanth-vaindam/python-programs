@@ -1,8 +1,8 @@
-float(10)
-float(9.8)
-float(True)
-float(False)
-float("9")
-float("9.8")
-float("-12.5")
-# float("abc")
+print(float(10))  # 10.0
+print(float(9.8))  #  9.8
+print(float(True)) # 1.0
+print(float(False)) # 0.0
+print(float("9")) # 9.0
+print(float("9.8")) # 9.8
+print(float("-12.5")) # -12.5
+# print(float("abc")) # error

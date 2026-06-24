@@ -1,0 +1,5 @@
+Sort List Alphanumerically
+Sort Descending - thislist.sort(reverse = True)
+Customize Sort Function
+Case Insensitive Sort
+Reverse Order
