@@ -1,0 +1,37 @@
+Tuple
+Tuples are used to store multiple items in a single variable.
+A tuple is a collection which is ordered and unchangeable.
+Tuples are written with round brackets.
+
+Tuple Items
+Tuple items are ordered, unchangeable, and allow duplicate values.
+
+Tuple items are indexed, the first item has index [0], the second item has index [1] etc.
+
+Ordered
+When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.
+
+Unchangeable
+Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
+
+Allow Duplicates
+Since tuples are indexed, they can have items with the same value:
+
+Tuple Length
+To determine how many items a tuple has, use the len() function:
+
+Create Tuple With One Item
+To create a tuple with only one item, you have to add a comma after the item, otherwise Python will not recognize it as a tuple.
+
+Tuple Items - Data Types
+Tuple items can be of any data type:
+
+type()
+From Python's perspective, tuples are defined as objects with the data type 'tuple'
+
+<class 'tuple'>
+
+Python - Access Tuple Items
+You can access tuple items by referring to the index number, inside square brackets:
+
+
